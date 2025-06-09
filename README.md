@@ -3,6 +3,7 @@
 ## Links
 [开发者文档](DEVELOPER.md)<br>
 [服务器设置教程](SERVER_SETUP.md)
+[FancyMenu配置指南](FancyMenu_Integration_Guide.md)
 
 ## 概述
 
